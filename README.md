@@ -6,6 +6,8 @@ You can contact me from here for now: [LinkedIn](https://www.linkedin.com/in/fat
 
 ![](https://komarev.com/ghpvc/?username=fatiharapoglu)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=fatiharapoglu&theme=transparent&border_radius=5)](https://git.io/streak-stats)
+
 ### Tech Stack
 
 Work in progress...
