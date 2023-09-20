@@ -1,5 +1,3 @@
-## Hello! 👋
-
 I'm Fatih Arapoğlu, a Full-stack Developer who loves to work with modern JavaScript. Currently, I’m focused on learning everything related to Full-stack Web Development.
 
 <a href="https://www.linkedin.com/in/fatiharapoglu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
