@@ -87,7 +87,7 @@ I'm Fatih Arapoğlu, a Full-stack Developer who loves to work with modern JavaSc
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
         width="48"
         height="48"
         alt="Tailwind CSS"
