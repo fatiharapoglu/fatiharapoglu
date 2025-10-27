@@ -1,9 +1,9 @@
 I'm Fatih Arapoğlu, a Full-stack Developer who loves to work with modern JavaScript. Currently, I’m focused on learning everything related to Full-stack Web Development.
 
 <a href="https://www.linkedin.com/in/fatiharapoglu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:f3tt4n@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:contact@fatiharapoglu.com.tr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-### Check out my portfolio ⮕ <a href="https://fatiharapoglu.dev">fatiharapoglu.dev</a>
+### Check out my portfolio ⮕ <a href="https://fatiharapoglu.com.tr">fatiharapoglu.com.tr</a>
 
 <br />
 
